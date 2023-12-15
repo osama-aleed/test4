@@ -1,0 +1,23 @@
+body{
+ background: #faf2d3 ;
+}
+.c01{
+    text-decoration-line: none;
+    color: #3085c3;
+    direction: rtl;
+    /* text-align: center; */
+    margin: 0vh;
+    padding: 0vh;
+}
+h1{
+    text-align: center;
+}
+#dlel1{
+    background: greenyellow;
+    /* text-align: center; */
+}
+#bokk1{
+    background-image: url(dsBuffer.bmp.png);
+    background-repeat: no-repeat;
+    background-size: 135px 135px;
+}
