@@ -25,8 +25,8 @@ h1{
     display: inline;
 }
 .k2{
-    max-width: 5vh;
-    max-height: 5vh;
+    max-width: 5px;
+    max-height: 5px;
     border-radius: 5px;
 }
 
@@ -35,14 +35,14 @@ h1{
   padding: 0px;
   border-radius: 5px;
   /* transition: all 0.5s; */
-  max-width: 6vh;
-  max-height: 5.5vh;
+  max-width: 6px;
+  max-height: 5.5px;
   
 
 }
 .k4{
     display: inline;
-    padding-left: 100vh; 
+    padding-left: 100px; 
     
 }
 
