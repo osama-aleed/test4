@@ -21,3 +21,28 @@ h1{
     background-repeat: no-repeat;
     background-size: 135px 135px;
 }
+.k1{
+    display: inline;
+}
+.k2{
+    max-width: 5vh;
+    max-height: 5vh;
+    border-radius: 5px;
+}
+
+.k3{
+  border: 1px solid;
+  padding: 0px;
+  border-radius: 5px;
+  /* transition: all 0.5s; */
+  max-width: 6vh;
+  max-height: 5.5vh;
+  
+
+}
+.k4{
+    display: inline;
+    padding-left: 100vh; 
+    
+}
+
