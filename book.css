@@ -25,24 +25,24 @@ h1{
     display: inline;
 }
 .k2{
-    max-width: 5px;
-    max-height: 5px;
-    border-radius: 5px;
+    max-width: 5vh;
+    max-height: 5vh;
+    border-radius: 5vh;
 }
 
 .k3{
   border: 1px solid;
   padding: 0px;
-  border-radius: 5px;
+  border-radius: 5vh;
   /* transition: all 0.5s; */
-  max-width: 6px;
-  max-height: 5.5px;
+  max-width: 6vh;
+  max-height: 5.5vh;
   
 
 }
 .k4{
     display: inline;
-    padding-left: 100px; 
+    padding-left: 100vh; 
     
 }
 
